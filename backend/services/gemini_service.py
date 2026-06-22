@@ -1,4 +1,4 @@
-````python
+
 import json
 import re
 import io
@@ -172,4 +172,4 @@ def extract_all_pages(
             )
 
     return results
-````
+
